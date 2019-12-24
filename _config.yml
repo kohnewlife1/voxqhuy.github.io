@@ -1,0 +1,36 @@
+# site settings
+title: Huy Vo
+subtitle: 
+email: voxqhuy@gmail.com
+description: Welcome to my personal website<br /> I like to observe the world and document what I comprehend from it.
+baseurl: " " # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 4891 Taylor Circle
+city: Collegedale
+state: TN
+zip_code: 37315
+country: United States of America
+phone: (650) 686-8241
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/kohnewlife
+gitlab_url: https://gitlab.com/voxqhuy
+googleplus_url:
+instagram_url: https://instagram.com/voxqhuy
+linkedin_url: https://www.linkedin.com/in/voxqhuy
+pinterest_url: https://github.com/voxqhuy
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
