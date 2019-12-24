@@ -1,6 +1,6 @@
 # site settings
 title: Huy Vo
-subtitle: 
+subtitle:  👨‍💻
 email: voxqhuy@gmail.com
 description: Welcome to my personal website<br /> I like to observe the world and document what I am inspired by it.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ street_address: 4891 Taylor Circle
 city: Collegedale
 state: TN
 zip_code: 37315
-country: United States of America
+country: USA
 phone: (650) 686-8241
 
 # homepage tiles
