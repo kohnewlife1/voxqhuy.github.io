@@ -1,4 +1,4 @@
-I"×;<!-- Main -->
+I"ö><!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -10,20 +10,21 @@
 
 <!-- Content -->
 <h2 id="content">Career</h2>
-<p>Throughout my life, I always choose to contribute every small little effort to making our world a better place. That is to provide better experience in life with useful software tools and to share love to .</p>
+<p>Currently, I'm an iOS developer ðŸ“±. <br />
+Throughout my life, I always choose to contribute every little tiny effort to make our world a better place. This inspirits me to build software applications that care for the users and utilize the technologies to enhance people's lives.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>2017: Android Developer</h3>
+		<p>Project: <a href="https://apps.apple.com/us/app/adventist-giving/id1305324406">Adventist Giving</a><br />I was hired by <a href="https://www.southern.edu/academics/academic-sites/computing/circ.html">Center for Innovation and Research in Computing</a>at Southern Adventist University as a Student Intern in January 2017. This was my first-time ever for a computing job, and I did not know my passion for software development until after I start building a mobile application from scratch. My manager at the time inspired to work towards improving myself as programmer, not towards getting things done. Within only 8 months, without skipping a week of work, I successfully programmed a fully-functioning Android. The application is called Adventist Giving and it is published on Google App Store. To see more information about this project, please see my projects page.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>2018 - Present: iOS Developer (also MVC developer)</h3>
+		<p>Project: <a href="https://apps.apple.com/us/app/southern-adventist-university/id387200764">Southern Adventist University</a>, Attendance Tracking System, ATS API, Room Schedule.<br />I have been working for IT department at Southern Adventist University since April 2018. Fast forward from the time I worked on Android development, now my next challenge was iOS. I fell in love with the very informative and modern looking of Xcode and the Swift language. This helped me a lot in learning the tools and becoming an iOS Developer. The job assigned me to build functions and improve the Southern Adventist University iOS application. I was also building MVC web apps for the official website of the school.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Personal time</h3>
+		<p>I decided to spend more time to dive deep into learning technologies like Bluetooht, iBeacon, CoreData and other iOS design patterns like MVC, and MVVM. Having this said, I </p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Faucibus consequat lorem</h3>
