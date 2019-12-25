@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Photography
+description: Our planet is beautiful, and I captured some of it through my lense.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

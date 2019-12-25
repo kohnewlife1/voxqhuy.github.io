@@ -2,7 +2,7 @@
 title: Huy Vo
 subtitle:  👨‍💻
 email: voxqhuy@gmail.com
-description: Welcome to my personal website<br /> I like to observe the world and document what I am inspired by it.
+description: I love developing iOS apps. <br /> Currently, I am looking for a job, please check out my info page.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -15,7 +15,7 @@ phone: (650) 686-8241
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 7
+tiles-count: 8
 
 # social settings
 500px_url:

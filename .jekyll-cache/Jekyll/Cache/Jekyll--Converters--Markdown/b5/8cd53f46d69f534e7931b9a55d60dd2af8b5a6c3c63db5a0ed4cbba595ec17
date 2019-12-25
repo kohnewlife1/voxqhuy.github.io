@@ -1,11 +1,4 @@
----
-layout: page
-title: About me
-image: assets/images/pic09.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"ž<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -31,3 +24,4 @@ nav-menu: true
 </section>
 
 </div>
+:ET
