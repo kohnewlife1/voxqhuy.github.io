@@ -1,10 +1,4 @@
----
-layout: page
-title: About me
-nav-menu: true
----
-
-<!-- Main -->
+I"—<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -61,3 +55,4 @@ nav-menu: true
 </section>
 
 </div>
+:ET
