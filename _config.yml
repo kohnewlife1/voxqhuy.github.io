@@ -1,8 +1,8 @@
 # site settings
 title: Huy Vo
-subtitle:  👨‍💻
+subtitle: 
 email: voxqhuy@gmail.com
-description: I love developing iOS apps. <br /> Currently, I am looking for a job, please check out my info page.
+description: I'm sincerely looking for a job, at the moment. Please consider my info.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:

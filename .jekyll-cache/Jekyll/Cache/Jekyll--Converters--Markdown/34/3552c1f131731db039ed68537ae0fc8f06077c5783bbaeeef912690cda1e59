@@ -1,5 +1,4 @@
-I"Ò
-<!-- Main -->
+I"m<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -10,6 +9,34 @@
 		</header>
 
 <!-- Content -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img class="image" src="assets/images/profilePicture.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>About</h3>
+				</header>
+				<p>Throughout my life, I always choose to contribute every little tiny effort to make our world a better place. This inspirits me to build software applications that care for the users and utilize the technologies to enhance people's lives.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/profilePicture.jpg" alt="profile picture" class="fit" data-position="center center" />
+	</div>
+	<div class="6u 12u$(medium)">
+		<h3>About</h3>
+		<p>Throughout my life, I always choose to contribute every little tiny effort to make our world a better place. This inspirits me to build software applications that care for the users and utilize the technologies to enhance people's lives.</p>
+	</div>
+</div>
+
 <h2 id="content">Career - Mobile developer ðŸ“±</h2>
 <!-- <span class="image fit"><img src="assets/images/career.jpg" alt="" /></span> -->
 <p>Throughout my life, I always choose to contribute every little tiny effort to make our world a better place. This inspirits me to build software applications that care for the users and utilize the technologies to enhance people's lives.</p>

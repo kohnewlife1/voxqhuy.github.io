@@ -1,7 +1,7 @@
 ---
 title: Adventures
 layout: adventure
-description: 'We all love adventures<br />Let me share my experience so you can make yours even more wholesome.'
+description: 'We all love fun adventures<br />. Let me share my experience so you can make yours even more wholesome.'
 image: assets/images/pic08.jpg
 nav-menu: true
 ---
