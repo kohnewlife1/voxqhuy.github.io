@@ -1,12 +1,4 @@
----
-layout: page
-title: Hiring
-nav-menu: false
-
-show_tile: false
----
-
-<!-- Main -->
+I"¹<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -20,7 +12,7 @@ show_tile: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img style="opacity: 0.6" src="assets/images/profilePicture.jpg" alt="profile Picture"/>
+			<img style="opacity: 0.6" src="assets/images/profilePicture.jpg" alt="profile Picture" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -51,9 +43,9 @@ show_tile: false
 	<div class="4u 12u$(small)">
 		<h3>CLEAN CODE</h3>
 		<p>Now, this sounds out of place here, doesn't it? I, however, believe Clean Code principles belong a stand due to their values in a project. Developers often complain about wasting hours to understand some messy code by their partners. I have just practiced clean code recently and realized how significantly it could improve the development productivity.
-			<br/>
+			<br />
 			<i>"But if code isn't clean, it can bring a development organization to its knees"</i>
-			<br/>
+			<br />
 			<i>-- Robert C. Martin.</i>
 		</p>
 	</div>
@@ -94,22 +86,22 @@ show_tile: false
 <div class="row">
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/adventistGivingIcon.jpg" alt="adventist giving"/>
+			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/adventistGivingIcon.jpg" alt="adventist giving" />
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/sauIcon.jpg" alt="adventist giving"/>
+			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/sauIcon.jpg" alt="adventist giving" />
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/sauIcon.jpg" alt="adventist giving"/>
+			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/adventistGivingIcon.jpg" alt="adventist giving" />
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/sauIcon.jpg" alt="adventist giving"/>
+			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/sauIcon.jpg" alt="adventist giving" />
 		</a>
 	</div>
 	<!-- Break -->
@@ -119,3 +111,4 @@ show_tile: false
 </section>
 
 </div>
+:ET

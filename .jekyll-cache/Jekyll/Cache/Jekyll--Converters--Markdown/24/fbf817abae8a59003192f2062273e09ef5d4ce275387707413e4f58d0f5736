@@ -1,12 +1,4 @@
----
-layout: page
-title: Hiring
-nav-menu: false
-
-show_tile: false
----
-
-<!-- Main -->
+I" <!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -20,7 +12,7 @@ show_tile: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img style="opacity: 0.6" src="assets/images/profilePicture.jpg" alt="profile Picture"/>
+			<img style="opacity: 0.6" src="assets/images/profilePicture.jpg" alt="profile Picture" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -51,9 +43,9 @@ show_tile: false
 	<div class="4u 12u$(small)">
 		<h3>CLEAN CODE</h3>
 		<p>Now, this sounds out of place here, doesn't it? I, however, believe Clean Code principles belong a stand due to their values in a project. Developers often complain about wasting hours to understand some messy code by their partners. I have just practiced clean code recently and realized how significantly it could improve the development productivity.
-			<br/>
+			<br />
 			<i>"But if code isn't clean, it can bring a development organization to its knees"</i>
-			<br/>
+			<br />
 			<i>-- Robert C. Martin.</i>
 		</p>
 	</div>
@@ -65,23 +57,15 @@ show_tile: false
 
 <h2 id="content">Timeline</h2>
 <div class="row">
-	<div class="8u 12u$(small)">
+	<div class="4u 12u$(small)">
 		<h3>Android Developer (2017)</h3>
 		<p>I was hired by the <a href="https://www.southern.edu/academics/academic-sites/computing/circ.html">Center for Innovation and Research in Computing</a> (CIRC) at Southern Adventist University as a Student Intern in January 2017. My manager at the time inspired me to work towards improving myself as a programmer, not towards getting things done. Within only 8 months, without skipping a week of work, I successfully programmed a fully-functioning Android application from scratch. The application is called <a href="https://play.google.com/store/apps/details?id=org.andr.adventistgiving">Adventist Giving</a>, and available on Google App Store.</p>
 	</div>
 	<div class="4u 12u$(small)">
-		<h5>Project: Adventist Giving</h5>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor.</p>
-	</div>
-	<div class="8u 12u$(small)">
 		<h3>iOS Developer (2018 - Present)</h3>
 		<p>I have been working for the IT department at Southern Adventist University since April 2018. My journey with iOS officially started. I fell in love with the very informative and modern looking of Xcode and the Swift language. This helped me a lot in learning the tools and becoming an iOS Developer. The job assigned me to build functions and improve the <a href="https://apps.apple.com/app/southern-adventist-university/id387200764">Southern Adventist University</a> iOS application. I was also building MVC web apps for the official website of the school.</p>
 	</div>
 	<div class="4u 12u$(small)">
-		<h5>Project: Southern Adventist University, Attendance Tracking System, Classroom Schedule.</h5>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. </p>
-	</div>
-	<div class="8u 12u$(small)">
 		<h3>Personal</h3>
 		<p>Everyone of us, once in a while, has an awesome idea and then let it go just minutes later. I feel sad knowing that happens. This is why I decided to spend my freetime to transform some of my stupid ideas into useful products. The two biggest ones are <a href="https://github.com/2-letters/Laboratory.iOS">Laboratory</a> and  <a href="https://github.com/kohnewlife/Klozet">Klozet</a>. To see more information, check out my projects here.</p>
 	</div>
@@ -94,23 +78,18 @@ show_tile: false
 <div class="row">
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/adventistGivingIcon.jpg" alt="adventist giving"/>
+			<img style="opacity: 0.8; border-radius: 10px" src="assets/images/adventistGivingIcon.jpg" alt="adventist giving" />
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
-		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/sauIcon.jpg" alt="adventist giving"/>
-		</a>
+		<h3>iOS Developer (2018 - Present)</h3>
+		<p>I have been working for the IT department at Southern Adventist University since April 2018. My journey with iOS officially started. I fell in love with the very informative and modern looking of Xcode and the Swift language. This helped me a lot in learning the tools and becoming an iOS Developer. The job assigned me to build functions and improve the <a href="https://apps.apple.com/app/southern-adventist-university/id387200764">Southern Adventist University</a> iOS application. I was also building MVC web apps for the official website of the school.</p>
 	</div>
 	<div class="3u 12u$(medium)">
-		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/sauIcon.jpg" alt="adventist giving"/>
-		</a>
+		<h3>Personal</h3>
+		<p>Everyone of us, once in a while, has an awesome idea and then let it go just minutes later. I feel sad knowing that happens. This is why I decided to spend my freetime to transform some of my stupid ideas into useful products. The two biggest ones are <a href="https://github.com/2-letters/Laboratory.iOS">Laboratory</a> and  <a href="https://github.com/kohnewlife/Klozet">Klozet</a>. To see more information, check out my projects here.</p>
 	</div>
 	<div class="3u 12u$(medium)">
-		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/sauIcon.jpg" alt="adventist giving"/>
-		</a>
 	</div>
 	<!-- Break -->
 </div>
@@ -119,3 +98,4 @@ show_tile: false
 </section>
 
 </div>
+:ET
