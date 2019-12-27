@@ -1,4 +1,4 @@
-I"&<!-- Main -->
+I"I<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -81,7 +81,16 @@
 
 <hr class="major" />
 
-<h2 id="content">PROJECTS</h2>
+<div class="row">
+	<div class="2u 12u$(small)">
+		<h2 id="content" style="display: inline-block">PROJECTS</h2>
+	</div>
+	<div class="9u 12u$(small)">
+		<a href="generic.html" class="button next">Learn more</a>
+	</div>
+</div>
+
+
 <div class="row">
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
@@ -90,30 +99,25 @@
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/projects/sau.jpg" alt="adventist giving" />
+			<img style="opacity: 0.9; border-radius: 2px" src="assets/images/projects/sau.jpg" alt="adventist giving" />
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/projects/laboratory.jpg" alt="adventist giving" />
+			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/laboratory.png" alt="adventist giving" />
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/projects/klozet.jpg" alt="adventist giving" />
+			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/klozet.png" alt="adventist giving" />
 		</a>
 	</div>
 	<!-- Break -->
 </div>
 
 <br />
-<div class="row">
-	<div class="12u 12u$(medium)">
-		<ul class="actions fit">
-			<li><a href="#" class="button special fit">More Info</a></li>
-		</ul>
-	</div>
-</div>
+<br />
+
 
 </div>
 </section>

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi 😃, I am an iOS Developer'
+landing-title: Hi 😃, I'm an iOS Developer
 description: null
 image: null
 author: null

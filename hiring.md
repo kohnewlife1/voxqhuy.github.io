@@ -60,36 +60,51 @@ show_tile: false
 </div>
 
 <hr class="major" />
-
-<h2 id="content">TIMELINE</h2>
+<div class="row">
+	<div class="8u 12u$(small)">
+		<h2 id="content" style="display: inline-block" >TIMELINE</h2>
+	</div>
+	<div class="4u 12u$(small)">
+		<h2 id="content" style="display: inline-block" >PROJECTS</h2>
+	</div>
+</div>
 <div class="row">
 	<div class="8u 12u$(small)">
 		<h3>Android Developer <i>(2017)</i></h3>
-		<p>I was hired by the <a href="https://www.southern.edu/academics/academic-sites/computing/circ.html">Center for Innovation and Research in Computing</a> (CIRC) at Southern Adventist University as a Student Programmer in January 2017. My manager, Michael, inspired me to work more effectively and professionally. Within only 8 months, without skipping a workweek, I successfully programmed a fully-functioning <a href="https://play.google.com/store/apps/details?id=org.andr.adventistgiving">Adventist Giving </a> application from scratch.</p>
+		<p>I was hired by the <a href="https://www.southern.edu/academics/academic-sites/computing/circ.html">Center for Innovation and Research in Computing</a> (CIRC) at Southern Adventist University in January 2017. My manager at the time, Michael, inspired me to work and grow professionally as a programmer. Within only 8 months, I successfully programmed a fully-functioning <a href="https://play.google.com/store/apps/details?id=org.andr.adventistgiving">Adventist Giving </a> application from scratch.</p>
 	</div>
 	<div class="4u 12u$(small)">
-		<h5>Project: Adventist Giving.</h5>
+		<h4><a href="#">Adventist Giving</a></h4>
 	</div>
 	<div class="8u 12u$(small)">
 		<h3>iOS Developer <i>(2018 - Present)</i></h3>
-		<p>My journey with iOS officially started in April 2018 when IT Department at SAU hired me as an intern. I fell in love with the very informative and modern looking of Xcode and the Swift language. This helped me a lot in learning the tools and becoming an iOS Developer. The job assigned me to build functions and improve the <a href="https://apps.apple.com/app/southern-adventist-university/id387200764">Southern Adventist University</a> iOS application.</p>
+		<p>My journey with iOS officially started in April 2018 when the IT Department at SAU hired me as an iOS developer for their <a href="https://apps.apple.com/us/app/southern-adventist-university/id387200764">app</a> . I fell in love with the very informative and modern looking of Xcode and the Swift language. This helped me a lot in learning the tools and becoming an iOS Developer.</p>
 	</div>
 	<div class="4u 12u$(small)">
-		<h5>Project: Southern Adventist University.</h5>
+		<h4><a href="#">Southern Adventist University</a></h4>
 	</div>
 	<div class="8u 12u$(small)">
 		<h3>Personal</h3>
 		<p>Everyone of us, once in a while, has an awesome idea and then let it go just minutes later. I feel sad knowing that happens. This is why I decided to spend my freetime to transform some of my stupid ideas into useful products. The two biggest ones are <a href="https://github.com/2-letters/Laboratory.iOS">Laboratory</a> and  <a href="https://github.com/kohnewlife/Klozet">Klozet</a>.</p>
 	</div>
 	<div class="4u 12u$(small)">
-		<h5>Project: Laboratory, Klozet</h5>
+		<h4><a href="#">Laboratory</a>, <a href="#">Klozet</a></h4>
 	</div>
 	<!-- Break -->
 </div>
 
 <hr class="major" />
 
-<h2 id="content">PROJECTS</h2>
+<div class="row">
+	<div class="2u 12u$(small)">
+		<h2 id="content" style="display: inline-block" >PROJECTS</h2>
+	</div>
+	<div class="9u 12u$(small)">
+		<a href="projects.html" class="button next">More info</a>
+	</div>
+</div>
+
+
 <div class="row">
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
@@ -103,25 +118,19 @@ show_tile: false
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/projects/laboratory.jpg" alt="adventist giving"/>
+			<img style="opacity: 1.0; border-radius: 16px" src="assets/images/projects/laboratory.png" alt="adventist giving"/>
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/projects/klozet.jpg" alt="adventist giving"/>
+			<img style="opacity: 1.0; border-radius: 16px" src="assets/images/projects/klozet.png" alt="adventist giving"/>
 		</a>
 	</div>
 	<!-- Break -->
 </div>
 
 <br/>
-<div class="row">
-	<div class="12u 12u$(medium)">
-		<ul class="actions fit">
-			<li><a href="#" class="button special fit">More Info</a></li>
-		</ul>
-	</div>
-</div>
+
 
 </div>
 </section>

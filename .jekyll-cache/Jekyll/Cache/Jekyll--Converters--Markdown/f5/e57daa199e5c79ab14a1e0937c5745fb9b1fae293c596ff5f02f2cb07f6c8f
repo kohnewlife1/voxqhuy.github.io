@@ -1,0 +1,125 @@
+I"~<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Hiring</h1>
+		</header>
+
+<!-- Content -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img style="opacity: 0.6" src="assets/images/profilePicture.jpg" alt="profile Picture" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h4>FOREWORD</h4>
+				</header>
+				<p>Throughout my life, I always choose to contribute every little tiny effort to make our world a better place. This inspirits me to build software applications that care for the users and utilize the technologies to enhance people's lives.</p>
+				<a href="https://drive.google.com/file/d/1Bj0LDSCLXkotyRsqU5Z_B60Wc3Yo_Cy7/view" class="button special" target="_blank">My Resume</a>
+			</div>
+		</div>
+	</section>
+</section>
+
+<hr class="major" />
+
+<h2 id="content">WHAT I CAN DO</h2>
+<div class="row">
+	<div class="4u 12u$(small)">
+		<h3>Develop</h3>
+		<p>Just like any other developer, I enjoy building applications from scratch the most. My two years in iOS development also include implementing functionalities and maintaining an existing iOS application. I will be more excited about the products that customers are getting than what I have to do.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Unit Test</h3>
+		<p>In every technical project, testing is an important task and cannot be overlooked as it confirms that an application satisfies customers' requirements and notably enhance the quality of a final product. With this in mind, I'm always willing to put as much time into testing as into production code. I have been testing all of my projects for a year now and will keep improving my skills on this.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Clean Code</h3>
+		<p>Now, this sounds out of place here, doesn't it? I, however, believe Clean Code principles belong a stand due to their values in a project. Developers often complain about wasting hours to understand some messy code by their partners. I have just practiced clean code recently and realized how significantly it could improve the development productivity.
+			<br />
+			<i>"But if code isn't clean, it can bring a development organization to its knees"</i>
+			<br />
+			<i>-- Robert C. Martin.</i>
+		</p>
+	</div>
+	
+	
+</div>
+
+<hr class="major" />
+
+<h2 id="content">TIMELINE</h2>
+<div class="row">
+	<div class="8u 12u$(small)">
+		<h3>Android Developer <i>(2017)</i></h3>
+		<p>I was hired by the <a href="https://www.southern.edu/academics/academic-sites/computing/circ.html">Center for Innovation and Research in Computing</a> (CIRC) at Southern Adventist University as a Student Programmer in January 2017. My manager, Michael, inspired me to work more effectively and professionally. Within only 8 months, without skipping a workweek, I successfully programmed a fully-functioning <a href="https://play.google.com/store/apps/details?id=org.andr.adventistgiving">Adventist Giving </a> application from scratch.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h5>Project: Adventist Giving.</h5>
+	</div>
+	<div class="8u 12u$(small)">
+		<h3>iOS Developer <i>(2018 - Present)</i></h3>
+		<p>My journey with iOS officially started in April 2018 when IT Department at SAU hired me as an intern. I fell in love with the very informative and modern looking of Xcode and the Swift language. This helped me a lot in learning the tools and becoming an iOS Developer. The job assigned me to build functions and improve the <a href="https://apps.apple.com/app/southern-adventist-university/id387200764">Southern Adventist University</a> iOS application.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h5>Project: Southern Adventist University.</h5>
+	</div>
+	<div class="8u 12u$(small)">
+		<h3>Personal</h3>
+		<p>Everyone of us, once in a while, has an awesome idea and then let it go just minutes later. I feel sad knowing that happens. This is why I decided to spend my freetime to transform some of my stupid ideas into useful products. The two biggest ones are <a href="https://github.com/2-letters/Laboratory.iOS">Laboratory</a> and  <a href="https://github.com/kohnewlife/Klozet">Klozet</a>.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h5>Project: Laboratory, Klozet</h5>
+	</div>
+	<!-- Break -->
+</div>
+
+<hr class="major" />
+
+<h2 id="content" style="display: inline-block;">PROJECTS</h2>
+<a href="generic.html" class="button">Learn more</a>
+<div class="row">
+	<div class="3u 12u$(medium)">
+		<a href="#" class="image">
+			<img style="opacity: 0.9; border-radius: 2px" src="assets/images/projects/adventistGiving.jpg" alt="adventist giving" />
+		</a>
+	</div>
+	<div class="3u 12u$(medium)">
+		<a href="#" class="image">
+			<img style="opacity: 0.9; border-radius: 2px" src="assets/images/projects/sau.jpg" alt="adventist giving" />
+		</a>
+	</div>
+	<div class="3u 12u$(medium)">
+		<a href="#" class="image">
+			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/laboratory.png" alt="adventist giving" />
+		</a>
+	</div>
+	<div class="3u 12u$(medium)">
+		<a href="#" class="image">
+			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/klozet.png" alt="adventist giving" />
+		</a>
+	</div>
+	<!-- Break -->
+</div>
+
+<br />
+<br />
+
+<div class="row">
+	<div class="12u 12u$(medium)">
+		<ul class="actions fit">
+			<li><a href="#" class="button special fit">More Info</a></li>
+		</ul>
+	</div>
+</div>
+
+</div>
+</section>
+
+</div>
+:ET
