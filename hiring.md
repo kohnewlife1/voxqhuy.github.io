@@ -13,7 +13,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Hiring</h1>
+			<h1 class="complement">Hiring</h1>
 		</header>
 
 <!-- Content -->
@@ -25,10 +25,14 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h4>FOREWORD</h4>
+					<h4 class="complement">FOREWORD</h4>
 				</header>
 				<p>Throughout my life, I always choose to contribute every little tiny effort to make our world a better place. This inspirits me to build software applications that care for the users and utilize the technologies to enhance people's lives.</p>
-				<a href="https://drive.google.com/file/d/1Bj0LDSCLXkotyRsqU5Z_B60Wc3Yo_Cy7/view" class="button special" target="_blank">My Resume</a>
+				<ul class="actions">
+                    <li><a href="https://drive.google.com/file/d/1Bj0LDSCLXkotyRsqU5Z_B60Wc3Yo_Cy7/view" class="button special" target="_blank">My Resume</a></li>
+                    <li><a href="#contact" class="button scrolly">Contact</a></li>
+                </ul>
+				
 			</div>
 		</div>
 	</section>
@@ -36,10 +40,10 @@ show_tile: false
 
 <hr class="major" />
 
-<h2 id="content">WHAT I CAN DO</h2>
+<h2 id="content" class="complement">WHAT I CAN DO</h2>
 <div class="row">
 	<div class="4u 12u$(small)">
-		<h3>Develop</h3>
+		<h3 >Develop</h3>
 		<p>Just like any other developer, I enjoy building applications from scratch the most. My two years in iOS development also include implementing functionalities and maintaining an existing iOS application. I will be more excited about the products that customers are getting than what I have to do.</p>
 	</div>
 	<div class="4u 12u$(small)">
@@ -62,10 +66,10 @@ show_tile: false
 <hr class="major" />
 <div class="row">
 	<div class="8u 12u$(small)">
-		<h2 id="content" style="display: inline-block" >TIMELINE</h2>
+		<h2 id="content" class="complement" style="display: inline-block" >TIMELINE</h2>
 	</div>
 	<div class="4u 12u$(small)">
-		<h2 id="content" style="display: inline-block" >PROJECTS</h2>
+		<h2 id="content" class="complement" style="display: inline-block" >PROJECTS</h2>
 	</div>
 </div>
 <div class="row">
@@ -97,10 +101,7 @@ show_tile: false
 
 <div class="row">
 	<div class="2u 12u$(small)">
-		<h2 id="content" style="display: inline-block" >PROJECTS</h2>
-	</div>
-	<div class="9u 12u$(small)">
-		<a href="projects.html" class="button next">More info</a>
+		<h2 id="content" class="complement" style="display: inline-block" >PROJECTS</h2>
 	</div>
 </div>
 
@@ -108,22 +109,22 @@ show_tile: false
 <div class="row">
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/projects/adventistGiving.jpg" alt="adventist giving"/>
+			<img style="opacity: 0.9; border-radius: 2px" src="assets/images/projects/adventistGiving.jpg" alt="adventist giving"/>
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 16px" src="assets/images/projects/sau.jpg" alt="adventist giving"/>
+			<img style="opacity: 0.9; border-radius: 2px" src="assets/images/projects/sau.jpg" alt="adventist giving"/>
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 1.0; border-radius: 16px" src="assets/images/projects/laboratory.png" alt="adventist giving"/>
+			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/laboratory.png" alt="adventist giving"/>
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 1.0; border-radius: 16px" src="assets/images/projects/klozet.png" alt="adventist giving"/>
+			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/klozet.png" alt="adventist giving"/>
 		</a>
 	</div>
 	<!-- Break -->
@@ -131,6 +132,8 @@ show_tile: false
 
 <br/>
 
+<p>Click below to see more information about these projects.</p> <a href="projects.html" class="button next">More info</a>
+<br/>
 
 </div>
 </section>

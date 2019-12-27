@@ -4,7 +4,7 @@ layout: blog
 description: Here you will find information about my projects. Click 'see more' to see details for each project.
 image: assets/images/pic03.jpg
 nav-menu: true
-show_tile: false
+show_tile: true
 ---
 
 <!-- Main -->
@@ -21,7 +21,7 @@ show_tile: false
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights-small">
+<section id="two" class="spotlights">
 	<section>
 		<a href="2019/12/26/adventistGiving.html" class="image">
 			<img src="assets/images/projects/adventistGiving2.png" alt="" data-position="center center" />
