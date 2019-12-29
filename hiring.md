@@ -13,19 +13,19 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 class="complement">Hiring</h1>
+			<h1 class="">Hiring</h1>
 		</header>
 
 <!-- Content -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img style="opacity: 0.6" src="assets/images/profilePicture.jpg" alt="profile Picture"/>
+			<img style="opacity: 0.9" src="assets/images/profile.jpg" alt="profile Picture"/>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h4 class="complement">FOREWORD</h4>
+					<h4 class="complement">Foreword</h4>
 				</header>
 				<p>Throughout my life, I always choose to contribute every little tiny effort to make our world a better place. This inspirits me to build software applications that care for the users and utilize the technologies to enhance people's lives.</p>
 				<ul class="actions">
@@ -40,7 +40,7 @@ show_tile: false
 
 <hr class="major" />
 
-<h2 id="content" class="complement">WHAT I CAN DO</h2>
+<h2 id="content" class="complement">What I can do</h2>
 <div class="row">
 	<div class="4u 12u$(small)">
 		<h3 >Develop</h3>
@@ -52,7 +52,7 @@ show_tile: false
 	</div>
 	<div class="4u 12u$(small)">
 		<h3>Clean Code</h3>
-		<p>Now, this sounds out of place here, doesn't it? I, however, believe Clean Code principles belong a stand due to their values in a project. Developers often complain about wasting hours to understand some messy code by their partners. I have just practiced clean code recently and realized how significantly it could improve the development productivity.
+		<p>Now, this sounds out of place here, doesn't it? I, however, believe Clean Code principles belong a standing due to their values in a project. Developers often complain about wasting hours to understand some messy code by their partners. I have just practiced clean code recently and realized how significantly it could improve the development productivity.
 			<br/>
 			<i>"But if code isn't clean, it can bring a development organization to its knees"</i>
 			<br/>
@@ -66,10 +66,10 @@ show_tile: false
 <hr class="major" />
 <div class="row">
 	<div class="8u 12u$(small)">
-		<h2 id="content" class="complement" style="display: inline-block" >TIMELINE</h2>
+		<h2 id="content" class="complement" style="display: inline-block" >Timeline</h2>
 	</div>
 	<div class="4u 12u$(small)">
-		<h2 id="content" class="complement" style="display: inline-block" >PROJECTS</h2>
+		<h2 id="content" class="complement" style="display: inline-block" >Projects</h2>
 	</div>
 </div>
 <div class="row">
@@ -101,7 +101,7 @@ show_tile: false
 
 <div class="row">
 	<div class="2u 12u$(small)">
-		<h2 id="content" class="complement" style="display: inline-block" >PROJECTS</h2>
+		<h2 id="content" class="complement" style="display: inline-block" >Projects</h2>
 	</div>
 </div>
 
@@ -109,22 +109,22 @@ show_tile: false
 <div class="row">
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 2px" src="assets/images/projects/adventistGiving.jpg" alt="adventist giving"/>
+			<img class="little-rounded" style="opacity: 0.9" src="assets/images/projects/adventistGiving.jpg" alt="adventist giving"/>
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 0.9; border-radius: 2px" src="assets/images/projects/sau.jpg" alt="adventist giving"/>
+			<img class="little-rounded" style="opacity: 0.9" src="assets/images/projects/sau.jpg" alt="adventist giving"/>
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/laboratory.png" alt="adventist giving"/>
+			<img class="little-rounded" style="opacity: 1.0" src="assets/images/projects/laboratory.png" alt="adventist giving"/>
 		</a>
 	</div>
 	<div class="3u 12u$(medium)">
 		<a href="#" class="image">
-			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/klozet.png" alt="adventist giving"/>
+			<img class="little-rounded" style="opacity: 1.0" src="assets/images/projects/klozet.png" alt="adventist giving"/>
 		</a>
 	</div>
 	<!-- Break -->
@@ -132,7 +132,7 @@ show_tile: false
 
 <br/>
 
-<p>Click below to see more information about these projects.</p> <a href="projects.html" class="button next">More info</a>
+<p>Click the icons to see more details. To see all my projects <a href="projects.html">click here</a>.</p> 
 <br/>
 
 </div>

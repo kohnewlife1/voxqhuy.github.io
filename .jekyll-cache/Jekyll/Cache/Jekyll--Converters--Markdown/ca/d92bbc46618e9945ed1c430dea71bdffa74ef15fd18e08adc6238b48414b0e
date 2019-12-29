@@ -1,0 +1,73 @@
+I"A<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<div>
+<p>Adventist Giving allows you to return your tithe and give your offerings online to an Adventist church of your choice.
+</p>
+
+<h2 id="content" class="complement">How to use</h2>
+<div class="row">
+	<div class="4u 12u$(small)">
+		<h3>Login</h3>
+		<p>Just like any other developer, I enjoy building applications from scratch the most. My two years in iOS development also include implementing functionalities and maintaining an existing iOS application. I will be more excited about the products that customers are getting than what I have to do.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Unit Test</h3>
+		<p>In every technical project, testing is an important task and cannot be overlooked as it confirms that an application satisfies customers' requirements and notably enhance the quality of a final product. With this in mind, I'm always willing to put as much time into testing as into production code. I have been testing all of my projects for a year now and will keep improving my skills on this.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Clean Code</h3>
+		<p>Now, this sounds out of place here, doesn't it? I, however, believe Clean Code principles belong a stand due to their values in a project. Developers often complain about wasting hours to understand some messy code by their partners. I have just practiced clean code recently and realized how significantly it could improve the development productivity.
+			<br />
+			<i>"But if code isn't clean, it can bring a development organization to its knees"</i>
+			<br />
+			<i>-- Robert C. Martin.</i>
+		</p>
+	</div>
+	
+	
+</div>
+
+<hr class="major" />
+
+<div class="row">
+	<div class="2u 12u$(small)">
+		<h2 id="content" class="complement" style="display: inline-block">Screenshots</h2>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="3u 12u$(medium)">
+		<a href="#" class="image">
+			<img style="opacity: 0.9; border-radius: 2px" src="../../assets/images/projects/adventistGiving/screenshot1.png" alt="adventist giving" />
+		</a>
+	</div>
+	<div class="3u 12u$(medium)">
+		<a href="#" class="image">
+			<img style="opacity: 0.9; border-radius: 2px" src="assets/images/projects/adventistGiving/screenshot2.png" alt="adventist giving" />
+		</a>
+	</div>
+	<div class="3u 12u$(medium)">
+		<a href="#" class="image">
+			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/adventistGiving/screenshot3.png" alt="adventist giving" />
+		</a>
+	</div>
+	<div class="3u 12u$(medium)">
+		<a href="#" class="image">
+			<img style="opacity: 1.0; border-radius: 2px" src="assets/images/projects/adventistGiving/screenshot4.png" alt="adventist giving" />
+		</a>
+	</div>
+	<!-- Break -->
+</div>
+
+<br />
+
+<p>Click below to see more information about these projects.</p> <a href="projects.html" class="button next">More info</a>
+<br />
+
+</div>
+
+</div>
+:ET

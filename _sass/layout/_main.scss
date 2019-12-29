@@ -28,3 +28,8 @@
 	.complement {
 		color: #B09F75;
 	}
+
+	img {
+		&.little-rounded{border-radius: 6px;}
+		&.medium-rounded{border-radius: 10px;}
+	}

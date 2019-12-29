@@ -1,0 +1,83 @@
+I"õ<!-- Main -->
+<div id="main" class="alt">
+<div class="inner">
+
+<header class="major">
+	<h1 class="complement">Adventist Giving</h1>
+</header>
+
+
+<!-- One -->
+<div>
+<p>Adventist Giving allows you to return your tithe and give your offerings online to an Adventist church of your choice.
+</p>
+
+<hr class="major" />
+
+<h2 id="content" class="complement">How to use</h2>
+<div class="row">
+	<div class="4u 12u$(small)">
+		<h3>Login</h3>
+		<p>Just like any other developer, I enjoy building applications from scratch the most. My two years in iOS development also include implementing functionalities and maintaining an existing iOS application. I will be more excited about the products that customers are getting than what I have to do.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Auto-donate</h3>
+		<p>Just like any other developer, I enjoy building applications from scratch the most. My two years in iOS development also include implementing functionalities and maintaining an existing iOS application. I will be more excited about the products that customers are getting than what I have to do.</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<img style="opacity: 0.9; border-radius: 2px" src="../../../assets/images/projects/adventistGiving/screenshot1.png" alt="adventist giving" />
+	</div>
+	<div class="4u 12u$(small)">
+		<img style="opacity: 0.9; border-radius: 2px" src="../../../assets/images/projects/adventistGiving/screenshot1.png" alt="adventist giving" />
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Select a church</h3>
+		<p>Now, this sounds out of place here, doesn't it? I, however, believe Clean Code principles belong a stand due to their values in a project. Developers often complain about wasting hours to understand some messy code by their partners. I have just practiced clean code recently and realized how significantly it could improve the development productivity.
+			<br />
+			<i>"But if code isn't clean, it can bring a development organization to its knees"</i>
+			<br />
+			<i>-- Robert C. Martin.</i>
+		</p>
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Donate</h3>
+		<p>Now, this sounds out of place here, doesn't it? I, however, believe Clean Code principles belong a stand due to their values in a project. Developers often complain about wasting hours to understand some messy code by their partners. I have just practiced clean code recently and realized how significantly it could improve the development productivity.
+		</p>
+	</div>
+	
+	
+</div>
+
+<hr class="major" />
+
+<div class="row">
+	<div class="2u 12u$(small)">
+		<h2 id="content" class="complement" style="display: inline-block">Screenshots</h2>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="3u 12u$(medium)">
+		<img style="opacity: 0.9; border-radius: 2px" src="../../../assets/images/projects/adventistGiving/screenshot1.png" alt="adventist giving" />
+	</div>
+	<div class="3u 12u$(medium)">
+		<img style="opacity: 0.9; border-radius: 2px" src="../../../assets/images/projects/adventistGiving/screenshot2.png" alt="adventist giving" />
+	</div>
+	<div class="3u 12u$(medium)">
+		<img style="opacity: 1.0; border-radius: 2px" src="../../../assets/images/projects/adventistGiving/screenshot3.png" alt="adventist giving" />	</div>
+	<div class="3u 12u$(medium)">
+		<img style="opacity: 1.0; border-radius: 2px" src="../../../assets/images/projects/adventistGiving/screenshot4.png" alt="adventist giving" />
+	</div>
+	<!-- Break -->
+</div>
+
+<br />
+
+<p>See more on <a href="https://play.google.com/store/apps/details?id=org.andr.adventistgiving">Google Play</a>.</p> 
+
+</div>
+
+</div>
+</div>
+:ET

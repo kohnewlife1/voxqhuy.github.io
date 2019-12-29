@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: blog
+layout: blogBg
 description: Here you will find information about my projects. Click 'see more' to see details for each project.
 image: assets/images/pic03.jpg
 nav-menu: true
@@ -9,16 +9,6 @@ show_tile: true
 
 <!-- Main -->
 <div id="main">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Work in progress..</h2>
-		</header>
-		<p>This website is in developing progress, and I am currently working on updating the projects. Be patient if you found any misleading information. They are to be updated :).</p>
-	</div>
-</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -33,13 +23,13 @@ show_tile: true
 				</header>
 				<p>Adventist Giving allows you to return your tithe and give your offerings online to an Adventist church of your choice.</p>
 				<ul class="actions">
-					<li><a href="2019/12/26/adventistGiving.html" class="button">See more</a></li>
+					<li><a href="2019/12/26/adventistGiving.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="2019/12/26/sau.html" class="image">
 			<img src="assets/images/projects/sau.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -50,13 +40,13 @@ show_tile: true
 				<p>The official Southern Adventist University app will keep students up-to-date with their class schedule, grades and school events. Students can also check for cafeteria menu, campus map, directory and many more.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="2019/12/26/sau.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="2019/12/26/laboratory.html" class="image">
 			<img src="assets/images/projects/laboratory.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -66,13 +56,13 @@ show_tile: true
 				</header>
 				<p>An iOS application that helps scientific professionals manage laboratory sections and equipment more collaboratively.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="2019/12/26/laboratory.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="2019/12/26/klozet.html" class="image">
 			<img src="assets/images/projects/klozet.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -82,7 +72,7 @@ show_tile: true
 				</header>
 				<p>Klozet manages your clothes and outfits that you always try to remember. The app inspires you to dress better and easier everyday.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="2019/12/26/klozet.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

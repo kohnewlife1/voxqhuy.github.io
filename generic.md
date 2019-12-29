@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photography
-description: Our planet is beautiful, and I captured some of it through my lense.
+description: Our planet is beautiful, and I captured some of it through my lens.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
